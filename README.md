@@ -3,14 +3,18 @@
 
 ### workspace 와 src 생성
     cd ~
+    
     mkdir -p dev_ws/src
 
 ### github에서 파일을 받은 이후 dependencies install 진행.
     cd ~/dev_ws/src
+    
     rosdep update
+    
     rosdep install --from-paths . --ignore-src --rosdistro $ROS_DISTRO -y
     
 ### github에서 파일을 받은 이후 dependencies install 진행.
     cd ~/dev_ws/
+    
     colcon build
     
