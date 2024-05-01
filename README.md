@@ -1,3 +1,6 @@
+# ROS 실습
+https://drive.google.com/drive/folders/12TAPpmK_ffj_rYqaHQnEE0pChCrSfZNg?usp=sharing
+
 # ROS 과제
 ![image](https://github.com/V2LLAIN/ROS/assets/104286511/76ec9923-2078-49ed-b112-437f7d2265db)
 https://drive.google.com/drive/folders/1GjBSvA05GXC9IpCIbVNyZZK2JKpy41aj?usp=drive_link
